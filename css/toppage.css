@@ -1,0 +1,138 @@
+div.header{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-image:url(../img/a9211a6e003cd54ae1c1892a6cb60e123b45c875_1696402666.gif);
+    background-size:100%;
+    background-repeat:no-repeat;
+
+    }
+
+    div.search{
+    position: relative;
+    width: 100%;
+    height: 68px;
+    position:sticky;
+    z-index: 100000;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    }
+
+
+    div.search>img{
+        width: 115px;
+        height: 30px;
+        position: absolute;
+        right: 30px;
+        top: 25px;
+           
+    }
+/* ذره بین */
+    div.search>i{
+        width: 24px;
+        height: 24px;
+        position: absolute;
+        top: 30px;
+        right: 185px;
+        color: grey;
+    }
+
+
+    div.search>input.one{
+        width: 600px;
+        height: 44px;
+        position: absolute;
+        right: 165px;
+        top: 15px;
+        border: 0px;
+        font-size: 12px;
+        padding-right: 45px;
+        background-color: #F0F0F1;
+        outline: unset;
+        border-radius:8px;
+
+}
+div.search>div.login{
+    width: 199.41px;
+    height: 44px;
+    position: absolute;
+    left: 12px;
+    top: 15px;
+
+}
+div.search>div.login>div.log{
+    width: 110px;
+    height: 44px;
+    position: absolute;
+    left: 0%;
+    top: 0px;
+}
+
+div.search>div.login>div.log>a{
+    width: 134.41px;
+    height: 40px;
+    position: absolute;
+    border: 1.5px solid #E0E0E2;
+    border-radius: 8px;
+    left: 70px;
+    bottom: 5px;
+    text-align: center;
+    line-height: 40px;
+    color: black;
+}
+div.search>div.login>div.log>a>span.m1{
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    width: 130px;
+    height:20px;
+    right: 10px;
+    font-size: 12px;
+    outline: unset;
+
+
+}
+
+
+
+
+div.search>div.login>div.log>a>svg{
+position: absolute;
+top: 8px;
+right: 10px;
+
+}
+
+
+
+/* line light */
+div.search>div.login>span.fa-light{
+position: absolute;
+font-size: 24px;
+padding-top: 8px;
+padding-right: 140px;
+color: #E0E0E2;
+}
+
+div.search>div.login>button{
+    width: 50px;
+    height: 44px;
+    position: absolute;
+    left:0px;
+    font-size: 20px;
+    border: 0;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 44px;
+    
+}
+
+
+
+
+
+
+
+
+

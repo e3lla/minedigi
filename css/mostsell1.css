@@ -1,0 +1,99 @@
+div.sell{ width: 1336px; height: 200px; margin-top: 60px; margin-right: 70px; border: 1px solid gray; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -ms-border-radius: 15px; -o-border-radius: 15px;
+}
+
+div.sell .swiper {
+  width: 1336px;
+  height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+  }
+
+ div.sell .swiper-slide {
+  width: 346px;
+  height: 84px;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: calc((100% - 30px) / 2) !important;
+    margin-top: 10px;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 80px;
+    border-left: 1px solid gray;
+
+  }
+
+  div.sell .swiper-slide>div>img{
+    width: 84px;
+    height: 84px;
+    position: absolute;
+top: 0;
+right: 0;    
+
+
+
+
+}
+div.sell .swiper-slide>div>span{
+width: 164px;
+height: 84px;
+line-height: 84px;
+text-align: right;
+
+
+
+}
+
+
+
+/* second */
+
+div.sell2{ width: 1336px; height: 200px;  margin-top: 60px; margin-right: 70px; border: 1px solid gray; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -ms-border-radius: 15px; -o-border-radius: 15px;
+}
+
+div.sell2 .swiper {
+  width: 1336px;
+  height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+  }
+
+ div.sell2 .swiper-slide {
+  width: 346px;
+  height: 84px;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: calc((100% - 30px) / 2) !important;
+    margin-top: 10px;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 80px;
+    border-left: 1px solid gray;
+  }
+
+  div.sell2 .swiper-slide>div>img{
+    width: 84px;
+    height: 84px;
+    position: absolute;
+top: 0;
+right: 0;    
+
+
+
+
+}
+div.sell2 .swiper-slide>div>span{
+width: 164px;
+height: 84px;
+line-height: 84px;
+text-align: right;
+}

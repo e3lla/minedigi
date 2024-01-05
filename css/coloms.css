@@ -1,0 +1,95 @@
+
+div.coloms{
+width: 1336px;
+height: 300px;
+margin-top: 40px;
+position: relative;
+}
+
+div.coloms>div.firstc1{
+width: 300px;
+height:300px;
+text-align: right;
+font-size: 17px;
+position: absolute;
+font-weight: bold;
+
+}
+div.coloms>div.firstc1>a{
+    display: block;
+    text-align: right;
+    text-decoration: none;
+    color: gray;
+    margin-top: 15px;
+    font-size: 15px;
+
+    }
+    div.coloms>div.firstc2{
+        width: 300px;
+        height:300px;
+position: absolute;
+right: 305px;
+font-size: 17px;
+text-align: right;
+font-weight: bold;
+
+
+    }
+    div.coloms>div.firstc2>a{
+        display: block;
+        text-align: right;
+        text-decoration: none;
+        color: gray;
+        margin-top: 15px;
+        font-size: 15px;
+    
+        }
+        div.coloms>div.firstc3{
+            width: 300px;
+            height:300px;
+    position: absolute;
+    right:610px;
+    font-size: 17px;
+    text-align: right;
+    font-weight: bold;
+
+    
+        }
+        div.coloms>div.firstc3>a{
+            display: block;
+            text-align: right;
+            text-decoration: none;
+            color: gray;
+            margin-top: 15px;
+            font-size: 15px;
+        
+            }
+            div.coloms>div.firstc4{
+width: 400px;
+height: 300px;
+position: absolute;
+right:930px;
+font-size: 17px;
+text-align: right;
+
+
+
+
+
+}
+div.coloms>div.firstc4>span{
+display: block;
+margin-bottom: 10px;
+font-weight: bold;
+}
+
+div.coloms>div.firstc4>svg{
+margin-right: 45px;
+
+
+
+
+}
+
+div.photophoto>img.t{ margin-right: 65px; border: 1px solid rgb(154, 154, 154); padding: 15px; border-radius:5px ; -webkit-border-radius:5px ; -moz-border-radius:5px ; -ms-border-radius:5px ; -o-border-radius:5px ;
+}

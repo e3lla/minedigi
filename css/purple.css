@@ -1,0 +1,250 @@
+div.purple{ 
+        width: 1336px; 
+        height: 387px;
+         background-color:#941B80;
+          margin-right: 70px;
+           margin-top: 30px;
+            position: relative;
+             border-radius: 15px; 
+        
+        
+        
+        }
+
+
+
+div.purple>img{
+position: absolute;
+top: 30px;
+right: 29px;
+
+}
+div.purple>span{
+position: absolute;
+top: 70px;
+right: 29px;
+color: white;
+
+
+
+}
+div.purple>a{
+        width: 105.41px;
+        height: 40px;
+        top: 100px;
+        right: 29px;
+        position: absolute;
+        text-align: center;
+        line-height: 40px;
+        border-radius:5px;
+        font-size: 15px;
+        text-decoration: none;
+        border: 1px solid white;
+        color: white;
+
+}
+div.purple>img.purple{
+width: 400px;
+height: 290px;
+position: absolute;
+top: 90px;
+right: 50px;
+
+}
+div.purple>div.in{ 
+ width: 850px; 
+ height: 350px; 
+ position: absolute; 
+ background-color: white; 
+ top: 18px; 
+ right: 470px; 
+ border-radius:15px ;
+
+}
+div.purple>div.in>span.in{
+position: absolute;
+top: 20px;
+right: 50px;
+display: inline-block;
+
+}
+div.purple>div.in>span.in>svg{
+position: absolute;
+top: 0px;
+left: 130px;
+}
+
+div.purple>div.in>a{ 
+        width: 85px; 
+        height: 26px; 
+        background-color: rgb(255, 255, 255); 
+        position: absolute; top: 18px; 
+        right: 750px; 
+        display: inline-block; 
+        font-size: 12px; 
+        text-align: center; 
+        line-height: 26px; 
+        text-decoration: none;
+        color: #941B80;
+
+
+}
+div.in>div.one>img{
+width: 116px;
+height: 116px;
+margin-top: 60px;
+margin-right: 10px;
+
+}
+        
+div.in>div.second>img{
+        width: 116px;
+        height: 116px;
+        margin-top: 30px;
+        margin-right: 10px;
+        
+        }
+
+
+
+
+
+
+div.club{ 
+        width: 1336px; 
+        height: 87px; 
+        display: inline-block;
+        position: relative;
+        margin-top: 60px; 
+        margin-right: 70px; 
+        border-radius:15px; 
+        background: linear-gradient(76.02deg,#35a6c8 33.32%,#007295 71.55%),radial-gradient(21.29% 87.33% at 50% 50.67%,#7cf2f6 0,#35a6c8 100%);}
+/* logo */
+div.club>div.img1>img.img1{
+width: 119px;
+height: 33px;
+margin-top: 25px;
+margin-right: 40px;
+
+}
+/* 3pic */
+div.club>div.img2{
+        width: 273px;
+        height: 63px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 10px;
+        right: 480px;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;   
+
+}
+/* 2 */
+div.club>div.img2>span{
+        display: inline-block;
+        position: absolute;
+        top: 20px;
+        right: 30px;
+        font-size: 12px;
+        
+        
+        }
+div.club>div.img2>svg{
+        position: absolute;
+        top: 19.5px;
+        right: 5px;
+
+
+        
+        
+        
+        }
+div.club>div.img2>img.img2{
+        width: 170px;
+        height: 62.7px;
+        margin-right: 102.9px;
+   
+        
+        
+        }
+
+/* 3 */
+
+div.club>div.img3{
+        width: 273px;
+        height: 63px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 10px;
+        right: 760px;
+        
+                   
+}
+div.club>div.img3>span{
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 30px;
+        font-size: 12px;  
+
+}
+div.club>div.img3>svg{
+        position: absolute;
+        top: 20px;
+        right: 5px;
+
+
+        
+        
+        
+        }
+div.club>div.img3>img.img3{
+        width: 170px;
+        height: 62.7px;
+        margin-right: 102.9px;
+
+                
+                
+                
+}
+
+/* 4 */
+div.club>div.img4{
+width: 273px;
+height: 63px;
+background-color: rgb(255, 255, 255);
+position: absolute;
+top: 10px;
+right: 1040px;
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;
+}
+div.club>div.img4>span{
+        display: inline-block;
+        position: absolute;
+        top: 20px;
+        right: 40px;
+        font-size: 12px;
+
+
+}
+div.club>div.img4>svg{
+        position: absolute;
+        top: 19px;
+        right: 10px;
+
+
+        
+        
+        
+        }
+div.club>div.img4>img.img4{
+width: 170px;
+height: 62.7px;
+margin-right: 102.9px;
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;                        
+                        
+                        
+}
+

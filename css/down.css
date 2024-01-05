@@ -1,0 +1,51 @@
+div.paiin{
+width: 1490px;
+height: 1500px;
+margin-right: 15px;
+margin-top: 20px;
+display: inline-block;
+
+}
+div.paiin>img{
+width: 113px;
+height: 30px;
+
+
+
+
+}
+div.paiin>a{
+    width: 113px;
+    height: 34px;
+    margin-right: 1240px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: 1px solid rgb(204, 204, 204);
+text-decoration: none;
+display: inline-block;
+text-align: center;
+line-height: 34px;
+font-weight: bold;
+color: rgb(204, 204, 204);
+
+}
+
+div.paiin>div>div{
+font-size: 12px;
+display: inline-block;
+}
+div.photo41{
+width: 1336px;
+height: 100px;
+display: inline-block;
+text-align: center;
+margin-top: 20px;
+margin-right: 70px;
+}
+div.photo41>div.express{
+width: 150px;
+height: 100px;
+text-align: center;
+margin-right: 110px;
+}
+

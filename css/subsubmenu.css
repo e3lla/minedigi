@@ -1,0 +1,938 @@
+
+div.submenu>ul>li.q1>div.subsubmenu{
+    width: 970px;
+    height: 500px;
+position: absolute;
+background-color: rgb(255, 255, 255);
+top:42px;
+right: 140px;
+overflow: auto;
+display: none;
+}
+div.submenu>ul>li.q1>div.subsubmenu>a{
+text-decoration: none;
+color: #259EBD;
+right: 10px;
+position: absolute;
+font-size: 10px;}
+/* hover */
+div.submenu>ul>li.q1>div.subsubmenu>a:hover{
+background-color: whitesmoke;
+color: red;
+
+}
+
+
+
+
+/* 1 */
+div.submenu>ul>li.q1>div.subsubmenu>div.f1>div.ff1{
+position: relative;
+width: 200px;
+height: 600px;
+top: 60px;
+right: 10px;
+
+
+}
+/* hover */
+div.submenu>ul>li.q1>div.subsubmenu>div.f1:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    
+}
+
+
+div.submenu>ul>li.q1>div.subsubmenu>div.f1>a.mobile1{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 10px;
+top: 30px;
+text-decoration: none;
+
+
+}
+
+
+/* باید هاور بگیره */
+div.submenu>ul>li.q1>div.subsubmenu>div.f1>div>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+}
+
+
+
+/* 2 */
+div.submenu>ul>li.q1>div.subsubmenu>div.f2>div.ff2{
+    position: relative;
+    width: 200px;
+    height: 600px;
+    bottom:530px;
+    right: 250px;
+    
+    
+    }
+    /* hover */
+div.submenu>ul>li.q1>div.subsubmenu>div.f2:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    
+}
+div.submenu>ul>li.q1>div.subsubmenu>div.f2>a.mobile2{
+        position: absolute;
+        color: rgb(0, 0, 0);
+        right: 250px;
+        top: 30px;
+        text-decoration: none;
+        
+        
+    }
+div.submenu>ul>li.q1>div.subsubmenu>div.f2>div.ff2>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+
+
+    /* 3 */
+div.submenu>ul>li.q1>div.subsubmenu>div.f3>div.ff3{
+        position: relative;
+        width: 200px;
+        height: 600px;
+        bottom:1120px;
+        right: 460px;
+        
+        
+        }
+/* hover */
+div.submenu>ul>li.q1>div.subsubmenu>div.f3:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    
+}        
+div.submenu>ul>li.q1>div.subsubmenu>div.f3>a.mobile3{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 460px;
+top: 30px;
+text-decoration: none;
+            
+            
+        }
+div.submenu>ul>li.q1>div.subsubmenu>div.f3>div.ff3>a{
+        color: darkblue;
+        right: 10px;
+        display: block;
+        font-size: 12px;
+        text-decoration: none;
+        margin-top: -5px;
+        }
+
+
+
+        /* 4 */
+div.submenu>ul>li.q1>div.subsubmenu>div.f4>div.ff4{
+            position: relative;
+            width: 200px;
+            height: 400px;
+            top:-1711px;
+            right: 660px;
+            
+            
+            }
+/* hover */
+div.submenu>ul>li.q1>div.subsubmenu>div.f4:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    
+}
+div.submenu>ul>li.q1>div.subsubmenu>div.f4>a.mobile4{
+                position: absolute;
+                color: rgb(0, 0, 0);
+                right: 660px;
+                top: 30px;
+                text-decoration: none;
+                
+                
+            }
+div.submenu>ul>li.q1>div.subsubmenu>div.f4>div.ff4>a{
+            color: darkblue;
+            right: 10px;
+            display: block;
+            font-size: 12px;
+            text-decoration: none;
+            margin-top: -5px;
+            }
+
+
+
+
+
+                                        /* second */
+
+
+
+
+            /* باید هاور بگیره */
+div.submenu>ul>li.q2>div.subsubmenu{
+            width: 970px;
+            height: 500px;
+            position: absolute;
+            background-color: rgb(255, 255, 255);
+            top:42px;
+            right: 140px;
+            overflow: auto;
+            display: none;
+            }
+
+div.submenu>ul>li.q2>div.subsubmenu>a{
+            text-decoration: none;
+            color: #259EBD;
+            right: 10px;
+            position: absolute;
+            font-size: 10px;}
+/*hover  */
+div.submenu>ul>li.q2>div.subsubmenu>a:hover{
+background-color: whitesmoke;
+color: red;
+}
+
+
+            /* 1 */
+            
+        
+div.submenu>ul>li.q2>div.subsubmenu>div.f1>div.ff1{
+            position: relative;
+            width: 200px;
+            height: 600px;
+            top: 60px;
+            right: 10px;
+            
+            
+            }
+/* hover */
+div.submenu>ul>li.q2>div.subsubmenu>div.f1:hover>a{
+background-color: whitesmoke;
+color: red;
+}
+
+div.submenu>ul>li.q2>div.subsubmenu>div.f1>a.mobile1{
+            position: absolute;
+            color: rgb(0, 0, 0);
+            right: 10px;
+            top: 30px;
+            text-decoration: none;
+            
+            
+            }
+div.submenu>ul>li.q2>div.subsubmenu>div.f1>div>a{
+            color: darkblue;
+            right: 10px;
+            display: block;
+            font-size: 12px;
+            text-decoration: none;
+            margin-top: -5px;
+            }
+            
+ /* 2 */
+div.submenu>ul>li.q2>div.subsubmenu>div.f2>div.ff2{
+                position: relative;
+                width: 200px;
+                height: 600px;
+                bottom:530px;
+                right: 250px;
+                
+                
+                }
+/* hover */
+div.submenu>ul>li.q2>div.subsubmenu>div.f2:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    }                
+div.submenu>ul>li.q2>div.subsubmenu>div.f2>a.mobile2{
+                    position: absolute;
+                    color: rgb(0, 0, 0);
+                    right: 250px;
+                    top: 30px;
+                    text-decoration: none;
+                    
+                    
+                }
+div.submenu>ul>li.q2>div.subsubmenu>div.f2>div.ff2>a{
+                color: darkblue;
+                right: 10px;
+                display: block;
+                font-size: 12px;
+                text-decoration: none;
+                margin-top: -5px;
+                }
+            
+/* 3 */
+div.submenu>ul>li.q2>div.subsubmenu>div.f3>div.ff3{
+position: relative;
+width: 200px;
+height: 600px;
+bottom:1120px;
+right: 460px;
+                    
+                    
+       }
+/* hover */
+div.submenu>ul>li.q2>div.subsubmenu>div.f3:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    }       
+div.submenu>ul>li.q2>div.subsubmenu>div.f3>a.mobile3{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 460px;
+     top: 30px;
+     text-decoration: none;
+                        
+                        
+                    }
+div.submenu>ul>li.q2>div.subsubmenu>div.f3>div.ff3>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+        }
+    /* 4 */
+            
+div.submenu>ul>li.q2>div.subsubmenu>div.f4>div.ff4{
+    position: relative;
+    width: 200px;
+    height: 400px;
+    top:-1711px;
+    right: 660px;
+                        
+                        
+        }
+/* hover */
+div.submenu>ul>li.q2>div.subsubmenu>div.f4:hover>a{
+    background-color: whitesmoke;
+    color: red;
+    }        
+div.submenu>ul>li.q2>div.subsubmenu>div.f4>a.mobile4{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 660px;
+    top: 30px;
+    text-decoration: none;
+                    
+                            
+        }
+div.submenu>ul>li.q2>div.subsubmenu>div.f4>div.ff4>a{
+        color: darkblue;
+        right: 10px;
+        display: block;
+        font-size: 12px;
+        text-decoration: none;
+        margin-top: -5px;
+        }    
+
+
+
+                           /* thired */
+
+
+
+
+
+div.submenu>ul>li.q3>div.subsubmenu{
+width: 970px;
+height: 500px;
+position: absolute;
+background-color: rgb(255, 255, 255);
+top:42px;
+right: 140px;
+overflow: auto;
+display: none;
+                            }
+                
+div.submenu>ul>li.q3>div.subsubmenu>a{
+text-decoration: none;
+color: #259EBD;
+right: 10px;
+position: absolute;
+font-size: 10px;
+                            
+                            
+                            /* 1 */
+                            
+                            }
+div.submenu>ul>li.q3>div.subsubmenu>div.f1>div.ff1{
+position: relative;
+ width: 200px;
+height: 500px;
+top: 60px;
+right: 10px;
+                            
+                            
+}
+div.submenu>ul>li.q3>div.subsubmenu>div.f1>a.mobile1{
+ position: absolute;
+  color: rgb(0, 0, 0);
+ right: 10px;
+ top: 30px;
+ text-decoration: none;
+                            
+                            
+ }
+div.submenu>ul>li.q3>div.subsubmenu>div.f1>div>a{
+ color: darkblue;
+ right: 10px;
+ display: block;
+ font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+ }
+                            
+                 /* 2 */
+div.submenu>ul>li.q3>div.subsubmenu>div.f2>div.ff2{
+position: relative;
+width: 200px;
+height: 600px;
+bottom:430px;
+right: 250px;
+                                
+                                
+}
+div.submenu>ul>li.q3>div.subsubmenu>div.f2>a.mobile2{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 250px;
+top: 30px;
+text-decoration: none;
+                                    
+                                    
+}
+div.submenu>ul>li.q3>div.subsubmenu>div.f2>div.ff2>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+}
+                            
+/* 3 */
+div.submenu>ul>li.q3>div.subsubmenu>div.f3>div.ff3{
+position: relative;
+width: 200px;
+height: 600px;
+bottom: 1020px;
+right: 460px;
+                                    
+                                    
+                       }
+div.submenu>ul>li.q3>div.subsubmenu>div.f3>a.mobile3{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 460px;
+top: 30px;
+text-decoration: none;
+                                        
+                                        
+}
+div.submenu>ul>li.q3>div.subsubmenu>div.f3>div.ff3>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+}
+/* 4 */
+                            
+div.submenu>ul>li.q3>div.subsubmenu>div.f4>div.ff4{
+position: relative;
+width: 200px;
+height: 400px;
+top:-1611px;
+right: 660px;
+                                        
+                                        
+}
+
+div.submenu>ul>li.q3>div.subsubmenu>div.f4>a.mobile4{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 660px;
+top: 30px;
+text-decoration: none;
+                                    
+                                            
+}
+div.submenu>ul>li.q3>div.subsubmenu>div.f4>div.ff4>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+}
+
+                        /* forth */
+
+
+
+div.submenu>ul>li.q4>div.subsubmenu{
+width: 970px;
+height: 500px;
+position: absolute;
+background-color: rgb(255, 255, 255);
+top:42px;
+right: 140px;
+overflow: auto;
+display: none;
+                            }
+                
+div.submenu>ul>li.q4>div.subsubmenu>a{
+text-decoration: none;
+color: #259EBD;
+right: 10px;
+position: absolute;
+font-size: 10px;
+                            
+                            
+                            /* 1 */
+                            
+                            }
+div.submenu>ul>li.q4>div.subsubmenu>div.f1>div.ff1{
+position: relative;
+ width: 200px;
+height: 500px;
+top: 60px;
+right: 10px;
+                            
+                            
+}
+div.submenu>ul>li.q4>div.subsubmenu>div.f1>a.mobile1{
+ position: absolute;
+  color: rgb(0, 0, 0);
+ right: 10px;
+ top: 30px;
+ text-decoration: none;
+                            
+                            
+ }
+div.submenu>ul>li.q4>div.subsubmenu>div.f1>div>a{
+ color: darkblue;
+ right: 10px;
+ display: block;
+ font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+ }
+                            
+                 /* 2 */
+div.submenu>ul>li.q4>div.subsubmenu>div.f2>div.ff2{
+position: relative;
+width: 200px;
+height: 600px;
+bottom:430px;
+right: 250px;
+                                
+                                
+}
+div.submenu>ul>li.q4>div.subsubmenu>div.f2>a.mobile2{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 250px;
+top: 30px;
+text-decoration: none;
+                                    
+                                    
+}
+div.submenu>ul>li.q4>div.subsubmenu>div.f2>div.ff2>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+}
+                            
+                /* 3 */
+div.submenu>ul>li.q4>div.subsubmenu>div.f3>div.ff3{
+position: relative;
+width: 200px;
+height: 600px;
+bottom: 1020px;
+right: 460px;
+                                    
+                                    
+                       }
+div.submenu>ul>li.q4>div.subsubmenu>div.f3>a.mobile3{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 460px;
+top: 30px;
+text-decoration: none;
+                                        
+                                        
+}
+div.submenu>ul>li.q4>div.subsubmenu>div.f3>div.ff3>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+}
+                    /* 4 */
+                            
+div.submenu>ul>li.q4>div.subsubmenu>div.f4>div.ff4{
+position: relative;
+width: 200px;
+height: 400px;
+top:-1611px;
+right: 660px;
+                                        
+                                        
+}
+
+div.submenu>ul>li.q4>div.subsubmenu>div.f4>a.mobile4{
+position: absolute;
+color: rgb(0, 0, 0);
+right: 660px;
+top: 30px;
+text-decoration: none;
+                                    
+                                            
+}
+div.submenu>ul>li.q4>div.subsubmenu>div.f4>div.ff4>a{
+color: darkblue;
+right: 10px;
+display: block;
+font-size: 12px;
+text-decoration: none;
+margin-top: -5px;
+
+}
+
+
+
+
+                         /* sixth */
+
+
+
+div.submenu>ul>li.q6>div.subsubmenu{
+    width: 970px;
+    height: 500px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    top:42px;
+    right: 140px;
+    overflow: auto;
+    display: none;
+                                }
+                    
+    div.submenu>ul>li.q6>div.subsubmenu>a{
+    text-decoration: none;
+    color: #259EBD;
+    right: 10px;
+    position: absolute;
+    font-size: 10px;
+                                
+                                
+   /* 1 */
+                                
+                                }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f1>div.ff1{
+    position: relative;
+     width: 200px;
+    height: 500px;
+    top: 60px;
+    right: 10px;
+                                
+                                
+    }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f1>a.mobile1{
+     position: absolute;
+      color: rgb(0, 0, 0);
+     right: 10px;
+     top: 30px;
+     text-decoration: none;
+                                
+                                
+     }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f1>div>a{
+     color: darkblue;
+     right: 10px;
+     display: block;
+     font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+     }
+                                
+                     /* 2 */
+    div.submenu>ul>li.q6>div.subsubmenu>div.f2>div.ff2{
+    position: relative;
+    width: 200px;
+    height: 600px;
+    bottom:430px;
+    right: 250px;
+                                    
+                                    
+    }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f2>a.mobile2{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 250px;
+    top: 30px;
+    text-decoration: none;
+                                        
+                                        
+    }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f2>div.ff2>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+                                
+                    /* 3 */
+    div.submenu>ul>li.q6>div.subsubmenu>div.f3>div.ff3{
+    position: relative;
+    width: 200px;
+    height: 600px;
+    bottom: 1020px;
+    right: 460px;
+                                        
+                                        
+                           }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f3>a.mobile3{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 460px;
+    top: 30px;
+    text-decoration: none;
+                                            
+                                            
+    }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f3>div.ff3>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+                        /* 4 */
+                                
+    div.submenu>ul>li.q6>div.subsubmenu>div.f4>div.ff4{
+    position: relative;
+    width: 200px;
+    height: 400px;
+    top:-1611px;
+    right: 660px;
+                                            
+                                            
+    }
+    
+    div.submenu>ul>li.q6>div.subsubmenu>div.f4>a.mobile4{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 660px;
+    top: 30px;
+    text-decoration: none;
+                                        
+                                                
+    }
+    div.submenu>ul>li.q6>div.subsubmenu>div.f4>div.ff4>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+    
+
+
+                      /* fifth */
+
+
+
+div.submenu>ul>li.q5>div.subsubmenu{
+    width: 970px;
+    height: 500px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    top:42px;
+    right: 140px;
+    overflow: auto;
+    display: none;
+                                }
+                    
+    div.submenu>ul>li.q5>div.subsubmenu>a{
+    text-decoration: none;
+    color: #259EBD;
+    right: 10px;
+    position: absolute;
+    font-size: 10px;
+                                
+                                
+   /* 1 */
+                                
+                                }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f1>div.ff1{
+    position: relative;
+     width: 200px;
+    height: 500px;
+    top: 60px;
+    right: 10px;
+                                
+                                
+    }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f1>a.mobile1{
+     position: absolute;
+      color: rgb(0, 0, 0);
+     right: 10px;
+     top: 30px;
+     text-decoration: none;
+                                
+                                
+     }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f1>div>a{
+     color: darkblue;
+     right: 10px;
+     display: block;
+     font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+     }
+                                
+                     /* 2 */
+    div.submenu>ul>li.q5>div.subsubmenu>div.f2>div.ff2{
+    position: relative;
+    width: 200px;
+    height: 600px;
+    bottom:430px;
+    right: 250px;
+                                    
+                                    
+    }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f2>a.mobile2{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 250px;
+    top: 30px;
+    text-decoration: none;
+                                        
+                                        
+    }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f2>div.ff2>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+                                
+                    /* 3 */
+    div.submenu>ul>li.q5>div.subsubmenu>div.f3>div.ff3{
+    position: relative;
+    width: 200px;
+    height: 600px;
+    bottom: 1020px;
+    right: 460px;
+                                        
+                                        
+                           }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f3>a.mobile3{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 460px;
+    top: 30px;
+    text-decoration: none;
+                                            
+                                            
+    }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f3>div.ff3>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+                        /* 4 */
+                                
+    div.submenu>ul>li.q5>div.subsubmenu>div.f4>div.ff4{
+    position: relative;
+    width: 200px;
+    height: 400px;
+    top:-1611px;
+    right: 660px;
+                                            
+                                            
+    }
+    
+    div.submenu>ul>li.q5>div.subsubmenu>div.f4>a.mobile4{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    right: 660px;
+    top: 30px;
+    text-decoration: none;
+                                        
+                                                
+    }
+    div.submenu>ul>li.q5>div.subsubmenu>div.f4>div.ff4>a{
+    color: darkblue;
+    right: 10px;
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    margin-top: -5px;
+    }
+    
+
+
+    /* hover */
+    div.submenu>ul>li.q1:hover>div.subsubmenu{
+    display: block;
+    
+    }
+    
+    /* hover */
+     div.submenu>ul>li.q2:hover>div.subsubmenu{
+    display: block;
+    
+    }
+    
+    /* hover */
+    div.submenu>ul>li.q3:hover>div.subsubmenu{
+    display: block;
+        
+    }
+    /* hover */
+    div.submenu>ul>li.q4:hover>div.subsubmenu{
+        display: block;
+            
+        }
+/* hover */
+div.submenu>ul>li.q5:hover>div.subsubmenu{
+    display: block;
+        
+    }
+/* hover */
+div.submenu>ul>li.q6:hover>div.subsubmenu{
+    display: block;
+        
+    }                     

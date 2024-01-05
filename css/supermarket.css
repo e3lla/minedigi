@@ -1,0 +1,201 @@
+div.a6 {
+    width: 1336px;
+    height: 110px;
+    border-radius: 16px ;
+    background-color:  #eceeec;
+    background-image:url(../img/freshPattern.svg);
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    margin-right: 92px;
+}
+div.a6>div.left{
+    position: absolute;
+    width: 636.14px;
+    height: 74px;
+        right: 230px;
+
+
+}
+div.a6>div.right{
+    width: 300px;
+    height: 28px;
+    position: absolute;
+    display: inline-block;
+}
+
+div.a6>div.right>img.q1{
+position: absolute;
+width: 62px;
+height: 62px;
+right: 130px;
+margin-top: 30px;
+    
+}
+div.a6>div.right>img.q2{
+    position: absolute;
+    width: 250px;
+    height: 28px;
+    line-height: 110px;
+    margin-top: 40px;
+    right: 230px;
+
+}
+div.a6>div.right>div.falash{
+    width: 141px;
+    height: 50.04px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 12px;
+    margin-right: 1145px;
+    top: 30px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid white;
+    border-radius:9999px ;
+    -webkit-border-radius:9999px ;
+    -moz-border-radius:9999px ;
+    -ms-border-radius:9999px ;
+    -o-border-radius:9999px ;
+}
+div.a6>div.right>div.falash>span{
+    width: 150px;
+    height: 40px;
+position: absolute;
+top: 5px;
+left: 5px;
+text-align: center;
+color: #39AE00;
+}
+
+div.a6>div.right>div.falash>div.felesh{
+position: absolute;
+top: 10px;
+left: 12px;
+
+
+}
+div.a6>div.left{
+    width: 500px;
+    height: 100px;
+text-align: center;
+right: 700px;
+
+}
+div.a6>div.left>div.s1>img.s1{
+    width: 74px;
+    height: 74px;
+    border-radius: 37px;
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    -ms-border-radius: 37px;
+    -o-border-radius: 37px;
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+    top: 13px;
+
+}
+div.a6>div.left>div.s2>img.s2{
+    width: 74px;
+    height: 74px;
+    border-radius: 37px;
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    -ms-border-radius: 37px;
+    -o-border-radius: 37px;
+    display: inline-block;
+    position: absolute;
+    right: 200px;
+    top: 13px;
+
+
+}
+div.a6>div.left>div.s3>img.s3{
+    width: 74px;
+    height: 74px;
+    border-radius: 37px;
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    -ms-border-radius: 37px;
+    -o-border-radius: 37px;
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+    top: 13px;
+
+}
+div.a6>div.left>div.s4>img.s4{
+    width: 74px;
+    height: 74px;
+    border-radius: 37px;
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    -ms-border-radius: 37px;
+    -o-border-radius: 37px;
+    display: inline-block;
+    position: absolute;
+    right: 400px;
+    top: 13px;
+
+}
+div.a6>div.left>div.s1>div.dis1::after{
+    content: attr(data-dicount);
+    width: 34px;
+    height: 20px;
+    background-color: crimson;
+    color: white;
+    display: inline-block;
+    line-height: 20px;
+    border-radius:9999PX;
+    position: absolute;
+    font-size: 11px;
+    top: 70px;
+    left: 370px;
+    
+}
+div.a6>div.left>div.s2>div.dis2::after{
+    content: attr(data-dicount);
+    width: 34px;
+    height: 20px;
+    background-color: crimson;
+    color: white;
+    display: inline-block;
+    line-height: 20px;
+    border-radius:9999PX;
+    position: absolute;
+    font-size: 11px;
+    top: 70px;
+    left: 270px;
+    
+}
+div.a6>div.left>div.s3>div.dis3::after{
+    content: attr(data-dicount);
+    width: 34px;
+    height: 20px;
+    background-color: crimson;
+    color: white;
+    display: inline-block;
+    line-height: 20px;
+    border-radius:9999PX;
+    position: absolute;
+    font-size: 11px;
+    top: 70px;
+    left: 170px;
+    
+}
+div.a6>div.left>div.s4>div.dis4::after{
+     content: attr(data-dicount);
+     width: 34px;
+     height: 20px;
+     background-color: crimson;
+     color: white;
+     display: inline-block;
+     line-height: 20px;
+     border-radius:9999PX;
+     position: absolute;
+     font-size: 11px;
+     top: 70px;
+     left: 70px;
+     
+}

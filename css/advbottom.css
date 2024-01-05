@@ -1,0 +1,76 @@
+
+    div.a3{
+        text-align: center;
+
+
+    }
+    div.q1, div.q2, div.q3, div.q4, div.q5, div.q6, div.q7{
+        display: inline-block;
+    }
+
+    div.a3>div.q1>img{
+        width: 45px;
+        height: 50px;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+    }
+    
+    div.a3>div.q2>img{
+        width:50px;
+        height: 50px;
+        border-radius: 25px;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+    }
+    div.a3>div.q3>img{
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+    }
+    div.a3>div.q4>img{
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+
+}
+    div.a3>div.q5>img{
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+    }
+    div.a3>div.q6>img{
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        text-align: center;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+    }
+    div.a3>div.q7>img{
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        text-align: center;
+        margin: 70px ;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 52px;
+    }

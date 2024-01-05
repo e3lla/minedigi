@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: iran-sans;   
+    
+
+
+
+
+
+
+}
+    ::-webkit-scrollbar-thumb{
+        background-color:rgb(192,194 ,197 );   
+        border-radius:  15px;
+ 
+}
+    
+
+::-webkit-scrollbar{
+background-color: #f0f0f1;
+width: 10px;
+
+    
+}

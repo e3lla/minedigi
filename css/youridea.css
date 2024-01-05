@@ -1,0 +1,95 @@
+div.youridea{ width: 1003px; height: 334px; background-color: whitesmoke; margin-top: 30px;
+    margin-right: 230px;
+    position: relative; border-radius:15px ; -webkit-border-radius:15px ; -moz-border-radius:15px ; -ms-border-radius:15px ; -o-border-radius:15px ;
+}
+div.youridea>a{
+width: 250px;
+height: 30px;
+position: absolute;
+right: 840px;
+top: 10px;
+text-decoration: none;
+color: #19BFD4;
+font-size: 12px;
+font-weight: bold;
+}
+div.youridea>span{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+div.youridea>div.idea{ 
+    width: 325px; 
+    height: 279px; 
+    background-color: rgb(255, 255, 255); 
+    display: inline-block;
+     margin-top: 50px; 
+     margin-right: 4px;
+     border: 0.5px solid gray;
+      border-radius:15px ; 
+}
+div.youridea>div.idea>span.img1{
+width: 325px;
+height: 50px;
+margin-top: 220px;
+display: inline-block;
+font-size: 13px;
+margin-right: 5px;
+
+
+}
+div.youridea>div.idea>span.img2{
+    width: 325px;
+    height: 50px;
+    margin-top: 220px;
+    display: inline-block;
+    font-size: 13px;
+    margin-right: 5px;
+
+    
+    
+    }
+
+        div.youridea>div.idea>span.img4{
+            width: 325px;
+            height: 50px;
+            margin-top: 220px;
+            display: inline-block;
+            font-size: 13px;
+            margin-right: 5px;
+
+            
+            
+            }
+div.youridea>div.idea>img.img1{
+width: 325px;
+height: 200px;
+position: absolute;
+top: 51px;
+right: 4px;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+
+
+}
+div.youridea>div.idea>img.img2{
+    width: 325px;
+    height: 200px;
+    position: absolute;
+    top: 51px;
+    right: 338px;
+    border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+    
+    }
+        div.youridea>div.idea>img.img4{
+            width: 325px;
+            height: 200px;
+            position: absolute;
+            top: 51px;
+            right: 672px;   
+            border-top-right-radius: 15px;
+            border-top-left-radius: 15px;             }
+                        

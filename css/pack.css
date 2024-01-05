@@ -1,0 +1,388 @@
+div.packaging{
+width: 1336px;
+height: 436.175px;
+background-color: white;
+display: inline-block;
+position: relative;
+right: 96px;
+top: 60px;
+
+}
+
+div.packaging>h3{
+position: absolute;
+right:590px;
+top: -30px;
+}
+
+/* photo1 */
+div.packaging>div.photo1{
+position: absolute;
+width: 186.28px;
+height: 134.04px;
+top: 30px;
+}
+
+
+div.packaging>div.photo1>figcaption.photo1>img{
+position: absolute;
+width: 100px;
+height: 100px;
+right: -30px;
+top: 30px;
+top: 30px;
+}
+
+div.packaging>div.photo1>figcaption.photo1{
+position: absolute;
+right: 70px;
+font-size: 12px;
+
+}
+
+
+/* photo2 */
+div.packaging>div.photo2{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: 186.28px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo2>figcaption.photo2>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo2>figcaption.photo2{
+    position: absolute;
+    right: 50px;
+    font-size: 12px;
+
+    }
+
+
+/* photo3 */
+div.packaging>div.photo3{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: calc(186.28px*2);
+    top: 30px;
+    }
+
+    div.packaging>div.photo3>figcaption.photo3>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -10px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo3>figcaption.photo3{
+    position: absolute;
+    right: 70px;
+    font-size: 12px;
+
+    }
+
+    /* photo4 */
+div.packaging>div.photo4{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: calc(186.28px*3);
+    top: 30px;
+    }
+
+    div.packaging>div.photo4>figcaption.photo4>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -30px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo4>figcaption.photo4{
+    position: absolute;
+    right: 70px;
+    font-size: 12px;
+
+    }
+
+     /* photo5 */
+div.packaging>div.photo5{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: calc(186.28px*4);
+    top: 30px;
+    }
+
+    div.packaging>div.photo5>figcaption.photo5>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -20px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo5>figcaption.photo5{
+    position: absolute;
+    right: 70px;
+    font-size: 12px;
+
+    }
+      /* photo6 */
+div.packaging>div.photo6{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: calc(186.28px*5);
+    top: 30px;
+    }
+
+    div.packaging>div.photo6>figcaption.photo6>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -20px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo6>figcaption.photo6{
+    position: absolute;
+    font-size: 12px;
+
+    right: 50px;
+    }
+         /* photo7 */
+div.packaging>div.photo7{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: calc(186.28px*6);
+    top: 30px;
+    }
+
+    div.packaging>div.photo7>figcaption.photo7>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right:-5px;
+    top: 20px;
+    }
+
+    div.packaging>div.photo7>figcaption.photo7{
+    position: absolute;
+    right: 45px;
+    font-size: 12px;
+
+    }
+         /* photo8 */
+div.packaging>div.photo8{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    top: 200px;
+    right: 100px;
+    }
+
+    div.packaging>div.photo8>figcaption.photo8>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -15px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo8>figcaption.photo8{
+    position: absolute;
+    right: 70px;
+    font-size: 12px;
+
+    }
+         /* photo9 */
+div.packaging>div.photo9{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: 286.28px;
+    top: 200px;
+    }
+
+    div.packaging>div.photo9>figcaption.photo9>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -30px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo9>figcaption.photo9{
+    position: absolute;
+    right: 70px;    
+    font-size: 12px;
+
+    }
+         /* photo10 */
+div.packaging>div.photo10{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: 470.28px;
+    top: 200px;
+    }
+
+    div.packaging>div.photo10>figcaption.photo10>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -10px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo10>figcaption.photo10{
+    position: absolute;
+    right: 50px;
+    font-size: 12px;
+
+    }
+             /* photo11 */
+div.packaging>div.photo11{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: 655.28px;
+    top: 200px;
+    }
+
+    div.packaging>div.photo11>figcaption.photo11>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -5px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo11>figcaption.photo11{
+    position: absolute;
+    right: 50px;
+    font-size: 12px;
+
+    }
+             /* photo12 */
+div.packaging>div.photo12{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: 836.28px;
+    top: 200px;
+    }
+
+    div.packaging>div.photo12>figcaption.photo12>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: 10px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo12>figcaption.photo12{
+    position: absolute;
+    right: 40px;
+    font-size: 12px;
+
+    }
+             /* photo13 */
+div.packaging>div.photo13{
+    position: absolute;
+    width: 186.28px;
+    height: 134.04px;
+    right: 1020.28px;
+    top: 200px;
+    }
+
+    div.packaging>div.photo13>figcaption.photo13>img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    right: -30px;
+    top: 30px;
+    }
+
+    div.packaging>div.photo13>figcaption.photo13{
+    position: absolute;
+    right: 70px;
+    font-size: 12px;
+
+    }
+
+
+
+
+
+    /* giffff */
+    div.giff{
+width: 100%;
+height: 300px;
+display: inline-block;
+position: relative;
+    }
+    div.giff>div.right>img{
+        width: 664px;
+        height: 264px;
+        position: absolute;
+        right: 80px;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        
+}
+
+
+    div.giff>div.left>img{
+        width: 664px;
+        height: 264px;
+        position: absolute;
+        left: 90px;
+        border-radius: 20px;
+
+}
+
+
+/* photo gifffff2 */
+div.giff2{
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+
+        }
+        div.giff2>div.right>img{
+            width: 664px;
+            height: 264px;
+            position: absolute;
+            right: 80px;
+            border-radius: 20px;
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+            -ms-border-radius: 20px;
+            -o-border-radius: 20px;
+    }
+    
+        div.giff2>div.left>img{
+            width: 664px;
+            height: 264px;
+            position: absolute;
+            left: 90px;
+            border-radius: 20px;
+    
+    }
+    

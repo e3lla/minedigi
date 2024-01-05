@@ -1,0 +1,111 @@
+div.menu{
+width:100%;
+height: 40px;
+background-color: rgb(255, 255, 255);
+position: sticky;
+z-index: 99999999999999999999999999;
+
+
+}
+div.menu>nav{
+width: 100%;
+height: 100%;
+background-color: rgb(255, 255, 255);
+
+}
+div.menu>nav>ul{
+    width: 100%;
+    height: 100%;
+    line-height: 40px;
+    list-style: none !important;
+
+}
+div.menu>nav>ul>li{
+    width: 120px;
+    height: 100%;
+    display: inline-block;
+    margin-right:0px;
+    vertical-align: middle;
+
+}
+div.menu>nav>ul>li:hover>a{
+color: crimson;
+
+
+}
+
+div.menu>nav>ul>li>a{
+    width: 120x;
+    height: 100%;
+    display: block;
+    text-align: center;
+    line-height:40px ;
+    text-decoration: none;
+    font-size: 10px;
+    color: #000000;
+
+}
+
+
+
+   div.menu>nav>ul>li.n2>a>svg.n2{
+    position: absolute;
+    right:134px;
+    top: 7px;
+
+
+}
+
+
+
+
+   div.menu>nav>ul>li.n3>a>svg.n3{
+    position: absolute;
+    top: 7px;
+
+    right:263px;
+
+   }
+
+
+
+   div.menu>nav>ul>li.n4>a>i.fa-gift-card{
+    font-size: 17px;
+    position: absolute;
+    top: 9px;
+    color: #A1A3A8;
+    right:388px;
+
+
+   }
+
+
+   
+   div.menu>nav>ul>li.n5>a>svg.n5{
+    position: absolute;
+    line-height: 40px;
+    top: 7px;
+    right:508px;
+
+   }
+
+
+
+   
+
+   div.menu>nav>ul>li.n6>a>svg.n6{
+    position: absolute;
+    line-height: 40px;
+    top: 7px;
+    right:610px;
+
+   }
+
+
+
+/* hover */
+
+div.menu>nav>ul>li:hover>div.submenu>ul>li.q1>div.subsubmenu{
+    display: block;
+}
+

@@ -1,0 +1,170 @@
+div.yours{
+    width: 1334px;
+    height: 417px;
+    margin-top: 130px;
+    margin-right: 70px;
+    border-radius:15px ;
+    border: 2px solid rgb(194, 194, 194);
+
+}
+
+
+div.yours>div.ph{
+width: 300px;
+height: 390px;
+background-color: rgb(255, 255, 255);
+display: inline-block;
+margin-right: 23px;
+margin-top: 23px;
+position: relative;
+}
+
+div.yours>div.ph>div>span.pi{
+font-size: 11px;
+color: gray;
+
+
+}
+div.yours>div.ph>div>a{
+    width: 100px;
+    height: 50px;
+z-index: 999999999999;
+text-decoration: none;
+text-align: center;
+line-height: 50px;
+font-size: 11px;
+position: absolute;
+top: 330px;
+color: rgb(79, 132, 134);
+
+
+
+}
+
+div.yours>div.ph>div>img.w1{
+width: 129.93px;
+height: 129.93px;
+position: absolute;
+right: 10px;
+top: 60px;
+
+
+}
+div.yours>div.ph>div>img.w2{
+    width: 129.93px;
+    height: 129.93px;
+    position: absolute;
+    right: 140px;
+    top: 70px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-right: 1px solid rgb(174, 174, 174);
+    border-bottom: 1px solid rgb(174, 174, 174);
+
+    }
+    div.yours>div.ph>div>img.w3{
+        width: 129.93px;
+        height: 129.93px;
+        position: absolute;
+        right: 10px;
+        top: 200px;
+        padding-top: 10px;
+        padding-left: 10px;
+        border-left: 1px solid rgb(174, 174, 174);
+        border-top: 1px solid rgb(174, 174, 174);
+        }
+        div.yours>div.ph>div>img.w4{
+            width: 129.93px;
+            height: 129.93px;
+            position: absolute;
+            right: 150px;
+            top: 210px;
+            
+            }
+
+
+
+
+/* yours2 */
+div.yours2{
+    width: 1334px;
+    height: 417px;
+    margin-top: 100px;
+    margin-right: 70px;
+    border-radius:15px ;
+    border: 2px solid rgb(200, 200, 200);
+
+}
+
+
+div.yours2>div.ph2{
+width: 300px;
+height: 390px;
+background-color: rgb(255, 255, 255);
+display: inline-block;
+margin-right: 23px;
+margin-top: 23px;
+position: relative;
+}
+
+div.yours2>div.ph2>div>span.pi2{
+font-size: 11px;
+color: gray;
+
+
+}
+div.yours2>div.ph2>div>a{
+    width: 100px;
+    height: 50px;
+z-index: 999999999999;
+text-decoration: none;
+text-align: center;
+line-height: 50px;
+font-size: 11px;
+position: absolute;
+top: 330px;
+color: rgb(79, 132, 134);
+
+
+
+}
+
+div.yours2>div.ph2>div>img.w12{
+width: 129.93px;
+height: 129.93px;
+position: absolute;
+right: 10px;
+top: 70px;
+
+}
+div.yours2>div.ph2>div>img.w22{
+    width: 129.93px;
+    height: 129.93px;
+    position: absolute;
+    right: 140px;
+    top: 70px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-right: 1px solid rgb(174, 174, 174);
+    border-bottom: 1px solid rgb(174, 174, 174);
+    }
+    div.yours2>div.ph2>div>img.w32{
+        width: 129.93px;
+        height: 129.93px;
+        position: absolute;
+        right: 10px;
+        top: 200px;
+        padding-top: 10px;
+        padding-left: 10px;
+        border-left: 1px solid rgb(174, 174, 174);
+        border-top: 1px solid rgb(174, 174, 174);
+        
+        }
+        div.yours2>div.ph2>div>img.w42{
+            width: 129.93px;
+            height: 129.93px;
+            position: absolute;
+            right: 150px;
+            top: 210px;
+            
+            }

@@ -1,0 +1,54 @@
+div.adv{
+    position: relative;
+    top: 60px;
+    width: 1340px;
+    height: 235px;
+    border: 1px solid rgb(67, 67, 67);
+    border-radius: 15px;
+    right: 83px;
+
+
+}
+
+
+div.adv>span{
+position: absolute;
+z-index: 99000099999;
+right: 610px;
+top: 20px;
+font-size: 20px;
+}
+div.adv>span>svg{
+    position: absolute;
+    left: 160px;
+}
+
+div.adv .swiper {
+    background-color: rgb(235, 235, 235);
+    width: 1336px;
+    height: 230px;
+    border-radius: 15px;
+    border-top: 70px solid rgb(255, 255, 255) ;
+
+}
+
+
+div.adv .swiper-slide {
+
+    text-align: center;
+    font-size: 18px;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  div.adv .swiper-slide img {
+    display: block;
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+  }
+
+
+
